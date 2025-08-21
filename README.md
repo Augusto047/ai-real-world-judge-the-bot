@@ -1,4 +1,4 @@
-# 🕵️‍♀️ Responsible AI Inspector's Report
+# 🕵️‍♀️ Responsible AI Inspector's Report 
 
 ## About This Project
 This repository contains the evaluation report for the **"AI in the Real World — Judge the Bot"** assignment. As a Responsible AI Inspector, my mission was to investigate two real-world AI use cases, identifying potential issues and proposing ethical and responsible solutions.
