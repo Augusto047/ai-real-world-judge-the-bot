@@ -11,6 +11,7 @@ The analysis addresses:
 ## 📂 Files Included
 * `JudgeTheBot_Augusto-Mate.pdf`: The final report with the detailed analysis of the two cases.
 * `README.md`: This introductory report for the project.
+* `LICENSE.md`: MIT License for open-source distribution and academic reuse  
 * **Online Report:**  
   🔗 **[Click here to read the interactive report online →](https://docs.google.com/document/d/1iIWqBoYDBjWB-7km5KC--23hvT2hVY3nQ8PQji_GsLQ/edit?usp=sharing)**
 
