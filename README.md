@@ -9,7 +9,7 @@ The analysis addresses:
 * **Responsible Improvement Suggestions:** Concrete proposals to make AI systems more equitable, transparent, and safe.
 
 ## 📂 Files Included
-* `assignment-3-ai-judgebot-augusto-mate.pdf`: The final report with the detailed analysis of the two cases.
+* `JudgeTheBot_augusto-mate.pdf`: The final report with the detailed analysis of the two cases.
 * `README.md`: This introductory report for the project.
 * **Online Report:**  
   🔗 **[Click here to read the interactive report online →](https://docs.google.com/document/d/1iIWqBoYDBjWB-7km5KC--23hvT2hVY3nQ8PQji_GsLQ/edit?usp=sharing)**
